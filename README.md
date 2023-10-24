@@ -10,3 +10,7 @@ To deploy with CloudFoundry's `staticfile` buildpack,
 $ cf create-app scream
 $ cf push scream
 ```
+
+## Development
+
+The single HTML file displayed is in [`public/index.html`](public/index.html).
